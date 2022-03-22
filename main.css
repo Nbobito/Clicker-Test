@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+body{
+    background-color: slategray;
+}
+header{
+    align-items: center;
+    display: flex;
+}
+footer{
+    position: absolute;
+    display: flex;
+    bottom: 0;
+    align-items: center;
+    align-self: center;
+}
